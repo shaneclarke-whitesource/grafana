@@ -3225,7 +3225,7 @@ __metadata:
     rimraf: "npm:5.0.7"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     rxjs: "npm:7.8.1"
     string-hash: "npm:^1.1.3"
@@ -3251,7 +3251,7 @@ __metadata:
     rimraf: "npm:5.0.7"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
@@ -3430,7 +3430,7 @@ __metadata:
     react-virtualized-auto-sizer: "npm:1.0.24"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     tinycolor2: "npm:1.6.0"
     ts-jest: "npm:29.2.4"
@@ -3641,7 +3641,7 @@ __metadata:
     react-window: "npm:1.8.10"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     rxjs: "npm:7.8.1"
     sass: "npm:1.77.8"
@@ -3692,7 +3692,7 @@ __metadata:
     rimraf: "npm:5.0.7"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     rollup-plugin-sourcemaps: "npm:0.6.3"
     rxjs: "npm:7.8.1"
@@ -3729,7 +3729,7 @@ __metadata:
     rimraf: "npm:5.0.7"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^6.1.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:5.0.0"
     ts-node: "npm:10.9.2"
     typescript: "npm:5.4.5"
@@ -3771,7 +3771,7 @@ __metadata:
     rimraf: "npm:5.0.7"
     rollup: "npm:2.79.1"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
@@ -3956,7 +3956,7 @@ __metadata:
     rollup: "npm:2.79.1"
     rollup-plugin-copy: "npm:3.5.0"
     rollup-plugin-dts: "npm:^5.0.0"
-    rollup-plugin-esbuild: "npm:5.0.0"
+    rollup-plugin-esbuild: "npm:6.1.1"
     rollup-plugin-node-externals: "npm:^5.0.0"
     rollup-plugin-svg-import: "npm:1.6.0"
     rxjs: "npm:7.8.1"
@@ -6615,7 +6615,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/pluginutils@npm:^5.0.1, @rollup/pluginutils@npm:^5.1.0":
+"@rollup/pluginutils@npm:^5.0.1, @rollup/pluginutils@npm:^5.0.5, @rollup/pluginutils@npm:^5.1.0":
   version: 5.1.0
   resolution: "@rollup/pluginutils@npm:5.1.0"
   dependencies:
@@ -15819,7 +15819,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"es-module-lexer@npm:^1.0.5, es-module-lexer@npm:^1.2.1, es-module-lexer@npm:^1.5.0, es-module-lexer@npm:^1.5.3":
+"es-module-lexer@npm:^1.2.1, es-module-lexer@npm:^1.3.1, es-module-lexer@npm:^1.5.0, es-module-lexer@npm:^1.5.3":
   version: 1.5.4
   resolution: "es-module-lexer@npm:1.5.4"
   checksum: 10/f29c7c97a58eb17640dcbd71bd6ef754ad4f58f95c3073894573d29dae2cad43ecd2060d97ed5b866dfb7804d5590fb7de1d2c5339a5fceae8bd60b580387fc5
@@ -17763,12 +17763,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"get-tsconfig@npm:^4.7.0":
-  version: 4.7.3
-  resolution: "get-tsconfig@npm:4.7.3"
+"get-tsconfig@npm:^4.7.0, get-tsconfig@npm:^4.7.2":
+  version: 4.7.6
+  resolution: "get-tsconfig@npm:4.7.6"
   dependencies:
     resolve-pkg-maps: "npm:^1.0.0"
-  checksum: 10/7397bb4f8aef936df4d9016555b662dcf5279f3c46428b7c7c1ff5e94ab2b87d018b3dda0f4bc1a28b154d5affd0eac5d014511172c085fd8a9cdff9ea7fe043
+  checksum: 10/32da95a89f3ddbabd2a2e36f2a4add51a5e3c2b28f32e3c81494fcdbd43b7d9b42baea77784e62d10f87bb564c5ee908416aabf4c5ca9cdbb2950aa3c247f124
   languageName: node
   linkType: hard
 
@@ -20864,13 +20864,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"joycon@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "joycon@npm:3.1.1"
-  checksum: 10/4b36e3479144ec196425f46b3618f8a96ce7e1b658f091a309cd4906215f5b7a402d7df331a3e0a09681381a658d0c5f039cb3cf6907e0a1e17ed847f5d37775
-  languageName: node
-  linkType: hard
-
 "jquery@npm:3.7.1":
   version: 3.7.1
   resolution: "jquery@npm:3.7.1"
@@ -21153,7 +21146,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jsonc-parser@npm:3.2.0, jsonc-parser@npm:^3.2.0":
+"jsonc-parser@npm:3.2.0":
   version: 3.2.0
   resolution: "jsonc-parser@npm:3.2.0"
   checksum: 10/bd68b902e5f9394f01da97921f49c5084b2dc03a0c5b4fdb2a429f8d6f292686c1bf87badaeb0a8148d024192a88f5ad2e57b2918ba43fe25cf15f3371db64d4
@@ -28115,19 +28108,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup-plugin-esbuild@npm:5.0.0":
-  version: 5.0.0
-  resolution: "rollup-plugin-esbuild@npm:5.0.0"
+"rollup-plugin-esbuild@npm:6.1.1":
+  version: 6.1.1
+  resolution: "rollup-plugin-esbuild@npm:6.1.1"
   dependencies:
-    "@rollup/pluginutils": "npm:^5.0.1"
+    "@rollup/pluginutils": "npm:^5.0.5"
     debug: "npm:^4.3.4"
-    es-module-lexer: "npm:^1.0.5"
-    joycon: "npm:^3.1.1"
-    jsonc-parser: "npm:^3.2.0"
+    es-module-lexer: "npm:^1.3.1"
+    get-tsconfig: "npm:^4.7.2"
   peerDependencies:
-    esbuild: ">=0.10.1"
-    rollup: ^1.20.0 || ^2.0.0 || ^3.0.0
-  checksum: 10/94b8dcad27eada7a7422aa8dbee4784452d2598fccc60555a3639d86e8872e9d440b5debcd26883389695cf03d61891ba8b076a7a35c6bf4beddbdd0be404642
+    esbuild: ">=0.18.0"
+    rollup: ^1.20.0 || ^2.0.0 || ^3.0.0 || ^4.0.0
+  checksum: 10/bba2d1dfb92a193823ac9dd1cdd44a8fd8cd9f25868e9a22ca077e1b7445feb4eaaf6df051148e367fc902d7d59c9f50efab49086c24c367972f05c86f3a656d
   languageName: node
   linkType: hard
 
