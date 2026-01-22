@@ -15184,10 +15184,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"diff@npm:^5.1.0, diff@npm:^5.2.0":
+"diff@npm:^5.2.0":
   version: 5.2.2
   resolution: "diff@npm:5.2.2"
   checksum: 10/8a885b38113d96138d87f6cb474ee959b7e9ab33c0c4cb1b07dcf019ec544945a2309d53d721532af020de4b3a58fb89f1026f64f42f9421aa9c3ae48a36998b
+  languageName: node
+  linkType: hard
+
+"diff@npm:^6.0.0":
+  version: 6.0.0
+  resolution: "diff@npm:6.0.0"
+  checksum: 10/86232339fe3d301c1d8e729f6ae553cf3f39713fffcaf57b3b3eecb873514ae4eb3ac9a90d2588b24b0ef864f46fd6f2c1fff55209a352080a9a5e26e8cf78eb
   languageName: node
   linkType: hard
 
@@ -18304,7 +18311,7 @@ __metadata:
     dangerously-set-html-content: "npm:1.1.0"
     date-fns: "npm:3.6.0"
     debounce-promise: "npm:3.1.2"
-    diff: "npm:^5.1.0"
+    diff: "npm:^6.0.0"
     esbuild: "npm:0.20.2"
     esbuild-loader: "npm:4.2.2"
     esbuild-plugin-browserslist: "npm:^0.14.0"
